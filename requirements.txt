@@ -1,8 +1,0 @@
-ftfy
-timm
-regex
-opencv-python
-ttach
-scikit-learn
-torchsummary
-transformers

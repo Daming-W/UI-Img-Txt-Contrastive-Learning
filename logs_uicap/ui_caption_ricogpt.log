@@ -1,2 +1,0 @@
-Namespace(batch_size=32, csv_file_path='/root/autodl-tmp/UI_ITC/data/RicoGPT-Caption-final.csv', dataset_name='ricogpt', do_scheduler=False, embed_size=300, epochs=20, eps=1e-08, eval_epochs=2, gpu_id='cuda', hidden_size=512, img_aug=True, img_folder_path='/root/autodl-tmp/RICO/combined/', lr=1e-07, lstm_num_layers=3, model_save_path='/root/autodl-tmp/', num_captions=5, num_workers=16, resize=1, resume=False, train_val_ratio=0.75, vocab_size=1, warmup_ratio=0.1, weight_decay=0.001)
-epoch : 1

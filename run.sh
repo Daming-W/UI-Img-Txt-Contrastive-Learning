@@ -1,2 +1,0 @@
-python cam_vis.py --do_compare True --image_folder_path '/root/autodl-tmp/RICO/combined/' --image_name '1.jpg' --sentence '1'
-python cam_vis.py --do_compare True --image_folder_path '/root/autodl-nas/Clarity-Data/Clarity-JPGs/' --image_name 'me.msqrd.android-screens/screenshot_2.jpg' --sentence '1'

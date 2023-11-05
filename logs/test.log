@@ -1,2 +1,0 @@
-Namespace(attack_type=None, batch_size=32, cam_model_name='GradCAM', clip_model_name='RN50', csv_file_path='/root/autodl-tmp/UI_ITC/data/screen_summaries.csv', dataset_name='screen2words', do_scheduler=True, epochs=40, eps=1e-08, eval_epochs=2, gpu_id='cuda', img_aug=True, img_folder_path='/root/autodl-tmp/RICO/combined/', lr=5e-07, model_save_path='/root/autodl-tmp/', num_captions=5, num_workers=18, resize=1, resume=False, sentence='', train_val_ratio=0.75, warmup_ratio=0.1, weight_decay=0.001)
-epoch : 1
