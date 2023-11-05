@@ -1,0 +1,90 @@
+Namespace(accumulation_steps=1, attack_type=None, batch_size=32, cam_model_name='GradCAM', clip_model_name='RN50', csv_file_path='/root/autodl-tmp/UI_ITC/data/RicoGPT-Caption-final.csv', dataset_name='ricogpt', do_scheduler=True, epochs=30, eps=1e-06, eval_epochs=2, gpu_id='cuda', img_aug=True, img_folder_path='/root/autodl-tmp/RICO/combined/', lr=1e-08, model_save_path='/root/autodl-tmp/', num_captions=5, num_workers=16, resize=1, sentence='', train_val_ratio=0.8, weight_decay=0.005)
+epoch : 0
+train_epoch_loss: 4.6484375
+train_lr : 9.981862278653043e-09
+evalutation_epoch_loss: 3.6514337062835693
+epoch : 1
+train_epoch_loss: 3.638671875
+train_lr : 9.909458130765118e-09
+evalutation_epoch_loss: 3.3201191425323486
+epoch : 2
+train_epoch_loss: 3.4453125
+train_lr : 9.782571976742232e-09
+evalutation_epoch_loss: 3.181387424468994
+epoch : 3
+train_epoch_loss: 3.337890625
+train_lr : 9.602611917445572e-09
+evalutation_epoch_loss: 3.049264669418335
+epoch : 4
+train_epoch_loss: 3.26171875
+train_lr : 9.371575033773584e-09
+evalutation_epoch_loss: 2.9794082641601562
+epoch : 5
+train_epoch_loss: 3.19921875
+train_lr : 9.09202522434366e-09
+evalutation_epoch_loss: 2.9216108322143555
+epoch : 6
+train_epoch_loss: 3.150390625
+train_lr : 8.767064752995661e-09
+evalutation_epoch_loss: 2.881169319152832
+epoch : 7
+train_epoch_loss: 3.109375
+train_lr : 8.400299821864738e-09
+evalutation_epoch_loss: 2.8286027908325195
+epoch : 8
+train_epoch_loss: 3.076171875
+train_lr : 7.995800552071337e-09
+evalutation_epoch_loss: 2.808955669403076
+epoch : 9
+train_epoch_loss: 3.046875
+train_lr : 7.558055816136924e-09
+evalutation_epoch_loss: 2.77984619140625
+epoch : 10
+train_epoch_loss: 3.01953125
+train_lr : 7.091923423366208e-09
+evalutation_epoch_loss: 2.74747896194458
+epoch : 11
+train_epoch_loss: 2.998046875
+train_lr : 6.6025762110064414e-09
+evalutation_epoch_loss: 2.747042179107666
+epoch : 12
+train_epoch_loss: 2.9765625
+train_lr : 6.095444639429379e-09
+evalutation_epoch_loss: 2.740699529647827
+epoch : 13
+train_epoch_loss: 2.962890625
+train_lr : 5.576156528377643e-09
+evalutation_epoch_loss: 2.699002504348755
+epoch : 14
+train_epoch_loss: 2.943359375
+train_lr : 5.050474603043824e-09
+evalutation_epoch_loss: 2.7068257331848145
+epoch : 15
+train_epoch_loss: 2.93359375
+train_lr : 4.524232543055743e-09
+evalutation_epoch_loss: 2.6663453578948975
+epoch : 16
+train_epoch_loss: 2.921875
+train_lr : 4.003270244055056e-09
+evalutation_epoch_loss: 2.6747024059295654
+epoch : 17
+train_epoch_loss: 2.91015625
+train_lr : 3.4933690102945415e-09
+evalutation_epoch_loss: 2.6548540592193604
+epoch : 18
+train_epoch_loss: 2.900390625
+train_lr : 3.0001873974449125e-09
+evalutation_epoch_loss: 2.661137580871582
+epoch : 19
+train_epoch_loss: 2.89453125
+train_lr : 2.529198417586373e-09
+evalutation_epoch_loss: 2.651524782180786
+epoch : 20
+train_epoch_loss: 2.892578125
+train_lr : 2.085628803243503e-09
+evalutation_epoch_loss: 2.6634488105773926
+epoch : 21
+train_epoch_loss: 2.88671875
+train_lr : 1.6744010044721431e-09
+evalutation_epoch_loss: 2.6534461975097656
+epoch : 22
