@@ -1,0 +1,105 @@
+Namespace(accumulation_steps=1, attack_type=None, batch_size=32, cam_model_name='GradCAM', clip_model_name='RN50', csv_file_path='/root/autodl-nas/Clarity-Data/captions.csv', dataset_name='clarity', do_scheduler=False, epochs=30, eps=1e-06, eval_epochs=2, gpu_id='cuda', img_folder_path='/root/autodl-nas/Clarity-Data/Clarity-PNGs', lr=1e-08, model_save_path='/root/autodl-tmp/', num_captions=5, resize=1, sentence='', train_val_ratio=0.85, weight_decay=0.005)
+epoch : 0
+train_epoch_loss: 4.12890625
+train_lr : 1e-08
+evalutation_epoch_loss: 3.928941488265991
+epoch : 1
+train_epoch_loss: 3.796875
+train_lr : 1e-08
+evalutation_epoch_loss: 3.4972221851348877
+epoch : 2
+train_epoch_loss: 3.376953125
+train_lr : 1e-08
+evalutation_epoch_loss: 3.312742233276367
+epoch : 3
+train_epoch_loss: 3.158203125
+train_lr : 1e-08
+evalutation_epoch_loss: 3.0339205265045166
+epoch : 4
+train_epoch_loss: 2.91796875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.8790996074676514
+epoch : 5
+train_epoch_loss: 2.84375
+train_lr : 1e-08
+evalutation_epoch_loss: 2.7164366245269775
+epoch : 6
+train_epoch_loss: 2.748046875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.699493646621704
+epoch : 7
+train_epoch_loss: 2.638671875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.6009409427642822
+epoch : 8
+train_epoch_loss: 2.583984375
+train_lr : 1e-08
+evalutation_epoch_loss: 2.4387967586517334
+epoch : 9
+train_epoch_loss: 2.53515625
+train_lr : 1e-08
+evalutation_epoch_loss: 2.51891827583313
+epoch : 10
+train_epoch_loss: 2.4921875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.5646677017211914
+epoch : 11
+train_epoch_loss: 2.455078125
+train_lr : 1e-08
+evalutation_epoch_loss: 2.3452236652374268
+epoch : 12
+train_epoch_loss: 2.36328125
+train_lr : 1e-08
+evalutation_epoch_loss: 2.3979761600494385
+epoch : 13
+train_epoch_loss: 2.357421875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.3001787662506104
+epoch : 14
+train_epoch_loss: 2.34375
+train_lr : 1e-08
+evalutation_epoch_loss: 2.2913739681243896
+epoch : 15
+train_epoch_loss: 2.3125
+train_lr : 1e-08
+evalutation_epoch_loss: 2.3343160152435303
+epoch : 16
+train_epoch_loss: 2.28125
+train_lr : 1e-08
+evalutation_epoch_loss: 2.284303903579712
+epoch : 17
+train_epoch_loss: 2.244140625
+train_lr : 1e-08
+evalutation_epoch_loss: 2.225013017654419
+epoch : 18
+train_epoch_loss: 2.224609375
+train_lr : 1e-08
+evalutation_epoch_loss: 2.1947388648986816
+epoch : 19
+train_epoch_loss: 2.19921875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.20473051071167
+epoch : 20
+train_epoch_loss: 2.181640625
+train_lr : 1e-08
+evalutation_epoch_loss: 2.176121473312378
+epoch : 21
+train_epoch_loss: 2.1640625
+train_lr : 1e-08
+evalutation_epoch_loss: 2.2343637943267822
+epoch : 22
+train_epoch_loss: 2.138671875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.3408658504486084
+epoch : 23
+train_epoch_loss: 2.123046875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.0796773433685303
+epoch : 24
+train_epoch_loss: 2.1171875
+train_lr : 1e-08
+evalutation_epoch_loss: 2.091672897338867
+epoch : 25
+train_epoch_loss: 2.0859375
+train_lr : 1e-08
+evalutation_epoch_loss: 2.1316120624542236
