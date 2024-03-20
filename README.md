@@ -1,4 +1,4 @@
-AI4S --- Multimodal Semantic Understanding for GUI
+## AI4SE --- Multimodal Semantic Understanding for GUI ##
 
 
 This project delves into the realm of AI for Software Engineering (AI4SE), focusing on multimodal pretraining for software user interfaces (UIs) that integrates both textual and visual elements. Building upon this text-image backbone, the framework facilitates a variety of downstream tasks, including but not limited to UI captioning, UI retrieval, and UI localization.
